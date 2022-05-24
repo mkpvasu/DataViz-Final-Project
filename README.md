@@ -1,2 +1,2 @@
 # DataViz-Final-Project
-Data Visualization Final Project
+This is the final project done for the graduate level Data Visualization course. I along wth 3 other team members were involved in this in collaboration with scholars from COASST. The summary of the marine debris surveys organized by the COASST were visualized to display the statistics of debris found in each beach along with entaglement risk involved and various data attributes collected as part of their survey.
